@@ -1,0 +1,7 @@
+mkdocs==1.5.3
+mkdocs-material>=9.5.0
+mkdocs-rss-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-glightbox
+jieba
+mkdocs-awesome-pages-plugin
