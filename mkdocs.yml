@@ -1,14 +1,14 @@
 site_dir: "site"
-site_url: https://weiyan.cc/
-site_name: 维燕的知识花园
-site_description: '记录 Bio+IT 相关知识，沉淀生活，记录点滴。'
+site_url: https://shenlab.cn/
+site_name: 个人技术空间
+site_description: '个人工作学习，生物信息学和服务器开发运维方向的博文总结。'
 
 # Docs 
 docs_dir: "docs"
 
 # Repository
 repo_name: Knowledge-Garden
-repo_url: https://github.com/shenweiyan/Knowledge-Garden/
+repo_url: https://github.com/shenweiyan/ShenLab-CN/
 edit_uri: edit/main/docs/
 site_author: Steven Shum
 
