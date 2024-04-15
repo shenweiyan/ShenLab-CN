@@ -1,3 +1,3 @@
 ## ShenLab-CN
 
-ShenLab-CN 备案站点。
+ShenLab.CN 备案站点。
