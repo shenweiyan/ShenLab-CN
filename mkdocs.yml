@@ -110,7 +110,7 @@ hooks:
   - meta_slugs.py
       
 extra:
-  homepage: https://doc.weiyan.cc
+  homepage: https://shenlab.cn
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/shenweiyan
